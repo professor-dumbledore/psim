@@ -9,7 +9,7 @@ float u = 100;
 float t = 0;
 float theta = 45;
 
-boolean flag=false;
+boolean myflag=false;
 
 void setup()
 {
